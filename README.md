@@ -12,3 +12,9 @@ VALUES
 
 
 To run, start db server and kafka server then run the application to access the API's
+
+
+Steps to install postgreSQL and start it:
+Install PostgreSQL: In Terminal, run brew install postgresql. 
+Start PostgreSQL: Run brew services start postgresql. 
+Verify Installation: Open a new Terminal window and run psql -d postgres to connect to the PostgreSQL server. 
